@@ -4,5 +4,5 @@ Esta es la práctica que estamos realizando del uso de Github para trabajar con 
 El objetivo es que todo el alumnado escriba una reflexión en el documento compartido diarioconfinamiento.odt
 Para ello:
 Clonaréis el repositorio origen
-Modificareis el documento
+Modificaréis el documento
 Notificaréis al autor su modificación
